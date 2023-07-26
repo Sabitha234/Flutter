@@ -347,7 +347,7 @@ class _MyHomePageState extends State<MyHomePage> {
              leading: Text("MEAT",style: TextStyle(color: Colors.black,fontSize: 20)),
              trailing: Icon(Icons.arrow_forward_ios),
            ),
-           View(),
+          View1(),
          ],
        ),
      ),

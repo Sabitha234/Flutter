@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-class View extends StatefulWidget {
-  const View({Key? key}) : super(key: key);
+class View1 extends StatefulWidget {
+  const View1({Key? key}) : super(key: key);
 
   @override
-  State<View> createState() => _ViewState();
+  State<View1> createState() => _View1State();
 }
 
-class _ViewState extends State<View> {
+class _View1State extends State<View1> {
   var img=[
     'img/33.png',
     'img/34.png',
